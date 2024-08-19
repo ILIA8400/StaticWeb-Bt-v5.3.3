@@ -1,0 +1,12 @@
+@font-face {
+    font-family: yekan;
+    src: url(../Fonts/iranyekanwebbold.ttf);
+}
+
+*{
+    font-family: yekan;
+}
+
+samp{
+    font-family: yekan;
+}
